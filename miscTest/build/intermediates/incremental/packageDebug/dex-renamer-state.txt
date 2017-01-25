@@ -1,0 +1,7 @@
+#Wed Jan 25 12:21:35 ICT 2017
+base.0=E\:\\TestKnob\\miscTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1aa73ff7b928a98c90917589d7cee04e3d2add02
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\TestKnob\\miscTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0674d15323deb47f7357c8023f355ea550ebdb06\\classes.dex
+base.1=E\:\\TestKnob\\miscTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0674d15323deb47f7357c8023f355ea550ebdb06
+file.0=E\:\\TestKnob\\miscTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1aa73ff7b928a98c90917589d7cee04e3d2add02\\classes.dex

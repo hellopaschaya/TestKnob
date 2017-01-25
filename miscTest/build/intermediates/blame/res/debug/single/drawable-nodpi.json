@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\TestKnob\\miscTest\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\stator.png",
+        "source": "E:\\TestKnob\\miscTest\\src\\main\\res\\drawable-nodpi\\stator.png"
+    },
+    {
+        "merged": "E:\\TestKnob\\miscTest\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\rotoroff.png",
+        "source": "E:\\TestKnob\\miscTest\\src\\main\\res\\drawable-nodpi\\rotoroff.png"
+    },
+    {
+        "merged": "E:\\TestKnob\\miscTest\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\rotoron.png",
+        "source": "E:\\TestKnob\\miscTest\\src\\main\\res\\drawable-nodpi\\rotoron.png"
+    }
+]

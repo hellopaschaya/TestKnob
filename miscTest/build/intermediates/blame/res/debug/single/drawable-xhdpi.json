@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\TestKnob\\miscTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_search.png",
+        "source": "E:\\TestKnob\\miscTest\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\TestKnob\\miscTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\TestKnob\\miscTest\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
